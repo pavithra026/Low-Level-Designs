@@ -4,7 +4,7 @@ public class Ride {
 	Taxi taxi;
 	char source;
 	char destination;
-	int pickupTime,fair,commission,distance;
+	int pickupTime,fare,commission,distance;
 	
 	public Ride(Customer customer, char source,char destination,int pickupTime, Taxi taxi) {
 		this.customer = customer;
@@ -12,13 +12,13 @@ public class Ride {
 		this.destination = destination;
 		this.pickupTime = pickupTime;
 		this.taxi = taxi;
-		updateFair();
+		updateFare();
 	}
 	
-	public void updateFair() {
+	public void updateFare() {
 		distance = Math.abs((source-'0')-(destination-'0'));
-		fair = (distance*10)*10;
-		commission = (int)(0.3*fair);
+		fare = (distance*10)*10;
+		commission = (int)(0.3*fare);
 	}
 
 }
