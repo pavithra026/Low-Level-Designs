@@ -26,7 +26,7 @@ public class Taxi {
 	public void updateRide(Ride r) {
 		location = r.destination;
 		freeTime = (r.pickupTime + r.distance) % 24;
-		totalEarnings += r.fair;
+		totalEarnings += r.fare;
 		rides.add(r);
 	}
 
