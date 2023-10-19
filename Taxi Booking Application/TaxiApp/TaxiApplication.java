@@ -171,7 +171,7 @@ public class TaxiApplication {
 			System.out.println(String.format("|%-15s|%-15s|%-15s|%-15s|%-10s|%-15s|", "CUSTOMER", "SOURCE", "DESTINATION", "PICK-UP TIME", "FAIR", "ZULA-COMMISSION"));
 			System.out.println("--------------------------------------------------------------");
 			for (Ride ride : taxi.rides) {
-			    System.out.println(String.format("|%-15s|%-15s|%-15s|%-15s|%-10s|%-15s|", ride.customer.name, ride.source, ride.destination, ride.pickupTime, ride.fair, ride.commission));
+			    System.out.println(String.format("|%-15s|%-15s|%-15s|%-15s|%-10s|%-15s|", ride.customer.name, ride.source, ride.destination, ride.pickupTime, ride.fare, ride.commission));
 			}
 			System.out.println("\n");
 
@@ -234,7 +234,7 @@ public class TaxiApplication {
 		System.out.println(String.format("|%-15s|%-15s|%-15s|%-15s|%-15s|%-10s|", "CUSTOMER", "TAXI", "SOURCE", "DESTINATION", "PICK-UP TIME", "FAIR"));
 		System.out.println("--------------------------------------------------------------------------------------------");
 		for (Ride ride : customer.rides) {
-		    System.out.println(String.format("|%-15s|%-15s|%-15s|%-15s|%-15s|%-10s|", ride.customer.name, ride.taxi.name, ride.source, ride.destination, ride.pickupTime, ride.fair));
+		    System.out.println(String.format("|%-15s|%-15s|%-15s|%-15s|%-15s|%-10s|", ride.customer.name, ride.taxi.name, ride.source, ride.destination, ride.pickupTime, ride.fare));
 		}
 		System.out.println("\n");
 
