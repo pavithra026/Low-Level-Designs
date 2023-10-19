@@ -1,6 +1,6 @@
 TAXI BOOKING APPLICATION
 
-
+____________
 LOGIN MODULE
 ____________
 
@@ -19,7 +19,7 @@ Customer Credentials:
 <img width="230" alt="image" src="https://github.com/pavithra026/Low-Level-Designs/assets/83458034/4216b351-1015-4fd9-8eac-c3ac2bffeca1">
 
 
-
+______________
 BOOKING MODULE
 ______________
 
@@ -30,19 +30,21 @@ ______________
 4. Taxi which is nearby and has comparatively low income is allocated.
 5. After Every ride the Taxi Live location details are displayed.
 
-
+__________________
 TAXI DRIVER MODULE
 __________________
 
 1. Drivers can view their ride history.
 1. Ride history displays the Customer who took the ride , Pick-up location, destination, Fare and the Company's Commission.
 
+_______________
 CUSTOMER MODULE
 _______________
 
 1. Customer can view their ride history.
 2. Ride history displays Customer Name, Taxi they took, pick-up location, destination and Fare they paid.
 
+__________
 ZULA ADMIN 
 __________
 
