@@ -40,3 +40,10 @@
   <li> Account Login</li>
   <li> Purchase </li>
 </ol>
+
+<b><h5> 1. Account Login </h5></b>
+<p> Now Login to your account and enter your Customer Id And Password
+     
+     Password encryption : 0->1,1->2,2->3......9->0  || a->b,b->c......z->a   || A>B,B->C......Z->A
+</p>
+
