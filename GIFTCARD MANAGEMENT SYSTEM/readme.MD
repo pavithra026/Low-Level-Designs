@@ -4,13 +4,39 @@
 
 <p> Three customer account details pre-defined </p>
 
- CustId,  Acc No,    Name,      Balance,    Encrypted Password
- 11,      11011,    "Kumar",    10000,      "ApipNbjm"   --------------------> ZohoMail
- 22,      22022,    "Madhu",    20000,      "Cboljoh"    --------------------> Banking
- 33,      33033,    "Robin",    30000,      "kbwb22"    --------------------> java11
+<table border="1">
+    <tr>
+        <th>CustId</th>
+        <th>Acc No</th>
+        <th>Name</th>
+        <th>Balance</th>
+        <th>Encrypted Password</th>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>11011</td>
+        <td>Kumar</td>
+        <td>10000</td>
+        <td>ApipNbjm</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>22022</td>
+        <td>Madhu</td>
+        <td>20000</td>
+        <td>Cboljoh</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>33033</td>
+        <td>Robin</td>
+        <td>30000</td>
+        <td>kbwb22</td>
+    </tr>
+</table>
 
 <b> create a banking system where </b>
 <ol>
-  <li> 1. Account Login</li>
-  <li> 2. Purchase </li>
+  <li> Account Login</li>
+  <li> Purchase </li>
 </ol>
