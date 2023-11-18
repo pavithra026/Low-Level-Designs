@@ -1,6 +1,6 @@
 <b><h1>Giftcard Management System</h1></b><br>
 
-<h6>Design a simple Gift Card Management System which you can gift to any one to make Purchase</h6>
+<h3>Design a simple Gift Card Management System which you can gift to any one to make Purchase</h3>
 
 <p> Three customer account details pre-defined </p>
 
@@ -17,21 +17,21 @@
         <td>11011</td>
         <td>Kumar</td>
         <td>10000</td>
-        <td>ApipNbjm</td>
+        <td>ApipNbjm --> ZohoMail(decrypt pass)</td>
     </tr>
     <tr>
         <td>22</td>
         <td>22022</td>
         <td>Madhu</td>
         <td>20000</td>
-        <td>Cboljoh</td>
+        <td>Cboljoh --> Banking(decrypt pass)</td>
     </tr>
     <tr>
         <td>33</td>
         <td>33033</td>
         <td>Robin</td>
         <td>30000</td>
-        <td>kbwb22</td>
+        <td>kbwb22 --> java11(decrypt pass)</td>
     </tr>
 </table>
 
