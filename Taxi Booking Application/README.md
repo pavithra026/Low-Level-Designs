@@ -54,8 +54,8 @@
     <tr>
         <td>1</td>
         <td>Customer-1</td>
-        <td>Password</td>
         <td>55</td>
+        <td>25</td>
     </tr>
     <tr>
         <td>2</td>
