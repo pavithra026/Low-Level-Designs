@@ -1,2 +1,2 @@
-<b>Giftcard Management System</b>
+<b>Giftcard Management System</b><br>
 <b>_____________________________________________________________________________</b>
