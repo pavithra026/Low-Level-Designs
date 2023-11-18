@@ -9,7 +9,7 @@ LLD Projects will be uploaded here.
     </tr>
     <tr>
         <td>1</td>
-        <td>Giftcard Management System</td>
+        <td><a href="GIFTCARD%20MANAGEMENT%20SYSTEM">Giftcard Management System</a></td>
     </tr>
     <tr>
         <td>2</td>
@@ -17,7 +17,7 @@ LLD Projects will be uploaded here.
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="#taxi-booking-application">Taxi Booking Application</a></td>
+        <td><a href="Taxi%20Booking%20Application">Taxi Booking Application</a></td>
     </tr>
 </table>
 
